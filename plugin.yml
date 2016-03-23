@@ -1,0 +1,5 @@
+name: BanSystem
+main: com.baldricnetwork.bansystem.BanSystem
+authors: [BaldricNetwork]
+version: 0.1
+depend: [WorldEdit]
